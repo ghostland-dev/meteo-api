@@ -110,5 +110,9 @@ bash
 Access Endpoints:
         Use a tool like Postman to interact with the API endpoints.
 
+## Author
 
-    
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
